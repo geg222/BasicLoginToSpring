@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="446b9c65-26d3-4c18-bd15-faa578880df6" name="변경" comment="" />
+    <list default="true" id="446b9c65-26d3-4c18-bd15-faa578880df6" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;geg222&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/geg222/BasicLoginToSpring.git&quot;,
+    &quot;accountId&quot;: &quot;0dab4efd-91b5-4357-a1b8-b932c072ff91&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -64,6 +78,9 @@
       <workItem from="1744430671398" duration="29000" />
       <workItem from="1744430761168" duration="43000" />
       <workItem from="1744430806074" duration="8000" />
+      <workItem from="1750753823845" duration="98000" />
+      <workItem from="1750753923781" duration="24000" />
+      <workItem from="1750753990227" duration="8000" />
     </task>
     <servers />
   </component>
