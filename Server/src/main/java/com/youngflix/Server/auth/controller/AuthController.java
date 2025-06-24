@@ -5,19 +5,16 @@ import com.youngflix.Server.auth.dto.LoginRequest;
 import com.youngflix.Server.auth.dto.TokenResponse;
 import com.youngflix.Server.auth.service.AuthService;
 import com.youngflix.Server.common.response.ApiResponse;
+import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/v1/auth")
+@RequiredArgsConstructor
 public class AuthController {
 
     private final AuthService authService;
-
-    public AuthController(AuthService authService) {
-        this.authService = authService;
-    }
-
 
     @PostMapping("/login")
     public ResponseEntity<ApiResponse<TokenResponse>> login(@RequestBody LoginRequest loginRequest) {
